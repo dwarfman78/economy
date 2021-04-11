@@ -1,4 +1,4 @@
-#include "../../include/systems/AgentSpawner.hpp"
+/*#include "../../include/systems/AgentSpawner.hpp"
 void AgentSpawner::configure(entityx::EntityManager &es, entityx::EventManager &events)
 {
     for(int i=0; i<Utils::randomBetween(3,3); ++i)
@@ -48,4 +48,4 @@ std::vector< std::shared_ptr<Demand> > AgentSpawner::createDemands(entityx::Enti
     }
 
     return std::move(retour);
-}
+}*/

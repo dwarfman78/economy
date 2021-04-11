@@ -1,0 +1,1 @@
+print("this is the default configure script, please define a specific one.");

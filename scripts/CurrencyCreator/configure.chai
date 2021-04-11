@@ -1,0 +1,4 @@
+economy.forEachAgent(fun(entity,agent)
+{
+    agent.addCurrency(100);
+});

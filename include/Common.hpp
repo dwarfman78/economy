@@ -8,10 +8,12 @@
 #include <map>
 #include <string>
 #include <memory>
+#include <typeinfo>
 #include <entityx/entityx.h>
 #include <SFML/Graphics.hpp>
 #include "imgui.h"
 #include "imgui-SFML.h"
 #include "implot.h"
 #include "chaiscript/chaiscript.hpp"
+#include "nlohmann/json.hpp"
 #endif //ECONOMY_COMMON_HPP
